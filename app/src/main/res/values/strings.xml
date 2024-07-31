@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ID card</string>
+    <string name="my_updates">My Updates</string>
+    <string name="academics">Academics</string>
+    <string name="communication">Communication</string>
+    <string name="date_of_birth">Date Of Birth</string>
+    <string name="registration_number">Registration Number</string>
+    <string name="sign_in">Sign in</string>
+    <string name="please_login">Please Login</string>
+    <string name="password">Password</string>
+    <string name="email_id">Email_ID</string>
+    <string name="sign_up">sign up</string>
+    <string name="school_updates">School Updates</string>
+</resources>
